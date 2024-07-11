@@ -22,5 +22,4 @@ public class ExceptionResponse implements Serializable {
         this.message = message;
         this.details = details;
     }
-
 }
